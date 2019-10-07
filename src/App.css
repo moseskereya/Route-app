@@ -1,0 +1,102 @@
+.App-Content h3{
+text-align: center;
+text-decoration: overline;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.App-Content img{
+    display: flex;
+    width: 300px;
+    margin: 1px 0;
+    justify-content: center;
+    align-items: center;
+}
+.App-Content {
+    width: 100%;
+}
+.Img{
+    display: flex;
+    margin: 0 20px 5px;
+    flex-flow: wrap;
+}
+.Nav-bar{
+    max-width: 100%;
+}
+.About-page{
+    background: rgb(255, 254, 254);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ @media screen and (max-width:500px){
+     .Side{
+         max-width: 100%;
+     }
+     .App-Content img{
+         max-width: 50%;
+     }
+     .links {
+        margin: 0 1rem ;
+    }
+    .img-2{
+        width: 100vw;
+        height: 100vh;
+    }
+    
+ }
+.App-nav{
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+    background: #09d3ac;
+    max-width: 100%;
+}
+.App-nav ul{
+display: flex;
+justify-content: center;
+list-style-type: none;
+}
+
+.links {
+    text-decoration: none;
+    margin: 0 1rem ;
+}
+.Gall{
+    text-align: center;
+}
+.Contact{
+    text-align: center;
+}
+.App-inner{
+  padding: 30px;
+}
+.App-inner button{
+    background: rgb(0,0,0);
+    color: rgb(173, 176, 179);
+    padding: 4px 8px;
+    outline: none;
+    text-transform: uppercase;
+    border: none;
+}
+.App-inner{
+    padding: 30px;
+  }
+
+.App-form{
+   max-width: 50%;
+    height: 400px;
+    background: #5e5a5a;
+    margin: 30px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5)
+}
+.img{
+    width: 40px;
+
+}
+@media screen and (max-width:500px){
+    .App-form{
+        max-width: 100%;
+        height: 80vh;
+}
+}
