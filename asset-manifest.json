@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Route-app/static/css/main.86e5762a.chunk.css",
+    "main.js": "/Route-app/static/js/main.5d14af47.chunk.js",
+    "main.js.map": "/Route-app/static/js/main.5d14af47.chunk.js.map",
+    "runtime-main.js": "/Route-app/static/js/runtime-main.df46c5ca.js",
+    "runtime-main.js.map": "/Route-app/static/js/runtime-main.df46c5ca.js.map",
+    "static/js/2.9a812691.chunk.js": "/Route-app/static/js/2.9a812691.chunk.js",
+    "static/js/2.9a812691.chunk.js.map": "/Route-app/static/js/2.9a812691.chunk.js.map",
+    "index.html": "/Route-app/index.html",
+    "precache-manifest.687d429d8816f75f58e73922f5425183.js": "/Route-app/precache-manifest.687d429d8816f75f58e73922f5425183.js",
+    "service-worker.js": "/Route-app/service-worker.js",
+    "static/css/main.86e5762a.chunk.css.map": "/Route-app/static/css/main.86e5762a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df46c5ca.js",
+    "static/js/2.9a812691.chunk.js",
+    "static/css/main.86e5762a.chunk.css",
+    "static/js/main.5d14af47.chunk.js"
+  ]
+}
